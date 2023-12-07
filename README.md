@@ -5,6 +5,8 @@
 # Basic-Angular-17-Services-Usage
 
 Uso basico de serviços em Angular 17 para referencias futuras
+para executar navegue ate a pagina no Prompt de Comando e digite:
+>start run.bat
 
 ## Site
 
