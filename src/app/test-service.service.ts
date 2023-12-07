@@ -5,8 +5,7 @@ import { EventEmitter, Injectable } from '@angular/core';
   providedIn: 'root'
 })
 
-export class TestServiceService {
-  private fetchEvent: EventEmitter<any> = new EventEmitter() 
+export class TestServiceService { 
   private url: string = "http://localhost:3000/element-list"
 
   constructor(private httpClient: HttpClient) { }
